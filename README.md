@@ -84,12 +84,6 @@ To enable stakeholders to:
 
 ---
 
-## 📸 Sneak Peek (Add Your Power BI Dashboard Screenshot Below)
-
-![Dashboard Preview](blinkit-analytics.pdf)
-
----
-
 ## 📁 Tools & Technologies
 
 - **Power BI** – Visualization & Analysis  
