@@ -86,7 +86,7 @@ To enable stakeholders to:
 
 ## 📸 Sneak Peek (Add Your Power BI Dashboard Screenshot Below)
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](blinkit-analytics.pdf)
 
 ---
 
@@ -112,8 +112,8 @@ To enable stakeholders to:
 If you liked this project or have suggestions, feel free to connect with me!
 
 📧 Email: [abhiramrangoon@gmail.com]  
-💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/abhiramrangoon/)  
-🌐 Portfolio: [yourwebsite.com](https://portfolio-git-main-abhiram-1729s-projects.vercel.app/)
+💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/abhiramrangoon/)  
+🌐 Portfolio: [my_portfolio_website.com](https://portfolio-git-main-abhiram-1729s-projects.vercel.app/)
 
 ---
 
